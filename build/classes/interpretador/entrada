@@ -1,0 +1,10 @@
+PROGRAM{
+    int x;
+    int y;
+    in(x,int);
+    //out x+5;
+    //out "\n";
+    in(y,int);
+    out x+y;
+    
+}ENDPROGRAM
